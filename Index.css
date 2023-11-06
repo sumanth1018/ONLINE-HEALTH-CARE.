@@ -1,0 +1,149 @@
+
+
+.wecare-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.user-logo{
+font-size: 20px;
+background-color: red;
+padding: 7px;
+border-radius: 25px;
+}
+
+.corousel-image {
+    height: 70vh;
+}
+
+.cards-bg {
+background-image: linear-gradient(rgb(36, 91, 168), rgb(117, 144, 154));
+padding-top: 7%;
+padding-bottom: 7%;
+width: 100vw;
+}
+
+.index-card {
+    background-color: green;
+    border-radius: 10px;
+}
+
+.card-heading {
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.card-description {
+    color: aliceblue;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.appointment-bg {
+    background-color: blueviolet;
+    padding: 20px;
+
+}
+
+.appointment-text {
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.taking-care-card {
+background-color: rgb(164, 151, 151);
+border-radius: 20px;
+padding: 30px;
+}
+
+.taking-care-card-logo {
+    background-color:gray;
+    padding: 5%;
+    border-radius: 25px;
+}
+
+.taking-care-heading {
+    font-weight: 400;
+    color: green;
+    font-size: 30px;
+}
+
+.taking-care-description {
+    color: blue;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.taking-care-link {
+    color: rgb(198, 7, 7);
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.signup-section-bg {
+    background-color: rgb(239, 230, 230);
+}
+
+.sign-up-heading {
+    color: green;
+}
+
+.sign-up-description {
+    font-size: 20px;
+}
+
+.sign-up-description {
+    color: red;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.signup-input {
+    height: 40px;
+    border-radius: 10px;
+    border-color: blue;
+    outline: double;
+    outline-offset: 2px blue;
+}
+
+.footer-bg {
+    background-color: rgb(16, 178, 81);
+}
+
+.footer-description {
+    font-size: 22px;
+    color: #fff;
+}
+
+.footer-logos {
+    font-size: 25px;
+}
+
+.footer-socialmedia-logobg {
+    background-color:grey;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.footer-btns {
+    width: 150px;
+    height: 50px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.letschat-btn {
+    background-color: darkgreen;
+}
+
+.booknow-btn {
+    background-color: rgb(208, 208, 13);
+    padding: 14px;
+    padding-left: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+
+.bg {
+    background-image: conic-gradient(rgb(0, 128, 107),rgb(234, 16, 205));
+    height: 100vh;
+    padding-top:20% ;
+}
+
+.heading1 {
+    color: white;
+    font-style: italic;
+}

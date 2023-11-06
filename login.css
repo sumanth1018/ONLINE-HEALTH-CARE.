@@ -1,0 +1,25 @@
+
+.heading {
+    font-weight: bold;
+    font-size: 35px;
+    color: rgb(228, 77, 2);
+}
+
+.or {
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.hr-line {
+   border-width: 2px;
+}
+
+.signup-btn {
+    border-width: 2px;
+    border-color: black;
+    border-radius: 5px;
+    padding:8px ;
+    background-color: rgb(143, 53, 134);
+    color: #fff;
+}

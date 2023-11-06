@@ -1,0 +1,98 @@
+
+.wecare-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.user-logo{
+font-size: 20px;
+background-color: red;
+padding: 7px;
+border-radius: 25px;
+}
+
+.bookonline-bg {
+    background-color: green;
+}
+
+.bookonline-heading {
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cards {
+    background-color: rgb(200, 183, 181);
+    margin: 10px;
+    border-radius: 10px ;
+}
+
+.card-heading {
+    color: rgb(253, 91, 10);
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.time {
+    color: brown;
+}
+
+.price {
+    color: rgb(219, 7, 7);
+    font-size: 30px;
+}
+
+.booknow {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.card-image {
+    height: 40vh;
+}
+
+.footer-bg {
+    background-color: rgb(16, 178, 81);
+}
+
+.footer-description {
+    font-size: 22px;
+    color: #fff;
+}
+
+.footer-logos {
+    font-size: 25px;
+}
+
+.footer-socialmedia-logobg {
+    background-color:grey;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.footer-btns {
+    width: 150px;
+    height: 50px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.letschat-btn {
+    background-color: darkgreen;
+}
+
+.booknow-btn {
+    background-color: rgb(208, 208, 13);
+    padding: 14px;
+    padding-left: 20px;
+    text-decoration: none;
+}

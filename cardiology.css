@@ -1,0 +1,87 @@
+
+.wecare-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.user-logo{
+font-size: 20px;
+background-color: red;
+padding: 7px;
+border-radius: 25px;
+}
+
+.top-bg {
+    background-color: green;
+}
+
+.top-heading {
+    font-size: 35px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.midde-section-logo {
+    height: 35vh;
+}
+
+.midde-section-heading {
+    color: green;
+    font-weight: bold;
+
+}
+
+.midde-section-description {
+    color: rgb(159, 0, 0);
+    font-size: 20px;
+}
+
+.appointment-btn {
+    background-color: purple;
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.footer-bg {
+    background-color: rgb(16, 178, 81);
+}
+
+.footer-description {
+    font-size: 22px;
+    color: #fff;
+}
+
+.footer-logos {
+    font-size: 25px;
+}
+
+.footer-socialmedia-logobg {
+    background-color:grey;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.footer-btns {
+    width: 150px;
+    height: 50px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.letschat-btn {
+    background-color: darkgreen;
+}
+
+.booknow-btn {
+    background-color: rgb(208, 208, 13);
+    padding: 14px;
+    padding-left: 20px;
+    text-decoration: none;
+}

@@ -1,0 +1,108 @@
+
+.wecare-logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.user-logo{
+font-size: 20px;
+background-color: red;
+padding: 7px;
+border-radius: 25px;
+}
+
+.aboutus-bg {
+    background-color: lightgreen;
+    padding:30px ;
+}
+
+.aboutus-heading {
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.medical-clinic-logo {
+    height:40vh;
+    margin-left: 20px;
+}
+
+
+.medical-clinic-bg {
+    background-color: rgb(173, 165, 165);
+    width: 100%;
+}
+
+.medical-clinic-heading {
+    color: blue;
+    font-size: 33px;
+    margin-left: 13px;
+}
+
+.medical-clinic-description {
+    font-size: 20px;
+    margin-left: 13px;
+}
+
+.providing-heading {
+    text-align: center;
+    color: green;
+}
+
+.providing-bg {
+    background-image: linear-gradient(cyan,#fff);
+}
+
+.providing-card-heading {
+    font-size: 30px;
+}
+
+.providing-card-description {
+    font-size: 18px;
+}
+
+.providing-card-image {
+    padding-right: 20px;
+}
+
+.footer-bg {
+    background-color: rgb(16, 178, 81);
+}
+
+.footer-description {
+    font-size: 22px;
+    color: #fff;
+}
+
+.footer-logos {
+    font-size: 25px;
+}
+
+.footer-socialmedia-logobg {
+    background-color:grey;
+    padding: 10px;
+    border-radius: 25px;
+    margin-right: 20px;
+}
+
+.footer-btns {
+    width: 150px;
+    height: 50px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    color: aliceblue;
+}
+
+.letschat-btn {
+    background-color: darkgreen;
+}
+
+.booknow-btn {
+    background-color: rgb(208, 208, 13);
+    padding: 14px;
+    padding-left: 20px;
+    text-decoration: none;
+}
